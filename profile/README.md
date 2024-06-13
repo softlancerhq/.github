@@ -1,6 +1,6 @@
 # Softlancer
 
-We help start up founder to build their technical product MVP and get it fast to the market to validate the idea by porviding them full technical suite of services ranging from designe to devlopment, deployment, setting up technica infrastructure of the company and giving the invaluable tips which a technical startup must follow in order to give a pass to technical debts.
+We help start up founder to build their technical product MVP and get it fast to the market to validate the idea by providing them full technical suite of services ranging from design to devlopment, deployment, setting up technical infrastructure of the company and giving the invaluable tips which a technical startup must follow in order to give a pass to technical debts.
  
 Check about us [here](https://softlancer.co/) | Find us on [LinkedIn](https://www.linkedin.com/company/softlancer/)
 
