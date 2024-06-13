@@ -1,6 +1,10 @@
 # Softlancer
+
+We help start up founder to build their technical product MVP and get it fast to the market to validate the idea by porviding them full technical suite of services ranging from designe to devlopment, deployment, setting up technica infrastructure of the company and giving the invaluable tips which a technical startup must follow in order to give a pass to technical debts.
  
 Check about us [here](https://softlancer.co/) | Find us on [LinkedIn](https://www.linkedin.com/company/softlancer/)
+
+Apart from our clients, we build open-source projects and we give a major focus to building our own digital products.
 
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/softlancerhq?style=for-the-badge&logo=X&logoColor=white)
